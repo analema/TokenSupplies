@@ -1,0 +1,13 @@
+{
+    "balances": {
+        "pcs": "0xc87d1863f7d8fb4e7dd5c20f2a9a7c0da4be1751",
+        "developer": "0x49606a4b26a5eaea7500f0e2b8b6a4e6fa4bef24",
+        "dead": "0x000000000000000000000000000000000000dead"
+    },
+    "endpoint": "",
+    "token": {
+        "address": "0xfc619ffcc0e0f30427bf938f9a1b2bfae15bdf84",
+        "supply": "10000000000000000000",
+        "decimals": 9
+    }
+}
