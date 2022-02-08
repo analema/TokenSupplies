@@ -25,6 +25,8 @@ This API is built and runs on CloudFlare Workers [workers.cloudflare.com](https:
 
 You will note the file [info.json](src/info.json) this is where the basic information of your token will live. As an example we have used the ANJI token information.
 
+You can either update the JSON file directly or you can run our little helper script to enter details by running `npm run details`. Within your terminal you will be asked a series of questions and will generate the `info.json` file directly for you.
+
 ### Balances
 
 The balances param within the JSON object should contain all of the wallets that should be ommited from your circulating supply. Removing wallets such as dead wallet, developer wallets and liquidity pool wallets.
