@@ -1,13 +1,29 @@
 {
     "balances": {
-        "pcs": "0xc87d1863f7d8fb4e7dd5c20f2a9a7c0da4be1751",
-        "developer": "0x49606a4b26a5eaea7500f0e2b8b6a4e6fa4bef24",
+        "Fares": "0xfab6368b0f7be60c573a6562d82469b5ed9e7ee6",
+        "developer": "0x7ca7601e0014e5e5f44985e9ed17d3158f98e689",
+        "team":"0xceec1cd5215f617855912657766759ddc0a410b8",
+        "team1":"0xc91276cdc5d7dd63437b75685d46a05dbd2e31c2",
+        "team2":"0xbd44427c050bc5641de43841cee5c56cfad7631e",
+        "team3":"0xdd9adf935d6255d8ed4052f03724d89227fc4d28",
+        "team4":"0xfab6368b0f7be60c573a6562d82469b5ed9e7ee6",
+        "team5":"0x16a87f2d8a00e1d6e4fc8357216aab3b63d983b9",
+        "team6":"0x716d223e66fad993de995f7c2939cd5fa4fd402f",
+        "team7":"0x59590726fcb3e4ed683904de84e813407cf498c8",
+        "team8":"0x315ce59fafd3a8d562b7ec1c8542382d2710b06c",
+        "team9":"0xa3a77002503d816d7f73587c0ecb0751b98d5df7",
+        "team10":"0xf40ff45edb9abb5cc718020fe25b7c071008cec3",
+        "team11":"0xda591bf4ea8786347836df699cc87b33c699036d",
+        "team12":"0x9082339eef1435f866f81af79b5d83f427b9ad97",
+        "team13":"0x22dbe54df398ab8a086904debc12dc667289f910",
+        "team14":"0x60661b8b8bfd0f3686630edcc3fc447d214bfe16",
+        "team15":"0x8f40704795fef023aa99460c938e27d2e78cdac5",
         "dead": "0x000000000000000000000000000000000000dead"
     },
-    "endpoint": "",
+    "endpoint": "https://cloudflare-eth.com",
     "token": {
-        "address": "0xfc619ffcc0e0f30427bf938f9a1b2bfae15bdf84",
-        "supply": "10000000000000000000",
-        "decimals": 9
+        "address": "0x315cE59FAFd3A8d562b7Ec1C8542382d2710b06c",
+        "supply": "100000000000000000000000000", 
+        "decimals": 18
     }
 }
